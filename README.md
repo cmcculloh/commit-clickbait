@@ -56,6 +56,7 @@ Common vernacular:
   - one trick
   - forced
   - won't believe
+  - here's how
   - what happens next
   - knows
   - actually lies
