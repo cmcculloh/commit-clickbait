@@ -61,3 +61,5 @@ Common vernacular:
   - actually lies
   - the reason why will make you cry
   - first you'll be [shocked|dismayed|adjective], then you'll be [inspired|enraged|adjective]
+
+Git commit messages break on character 70. Intentionally breaking the sentance up to bury the lead behind that fold can be fun.
