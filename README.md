@@ -5,8 +5,8 @@ Writing git commit comments is boring. Following this guide will make it easy to
 
 1. **The List**  
   Good for fixes that required a number of discrete methods to fix something  
-    - `"10 antipaterns everyone knows are actually just lies"`  
-    - `"5 weird ways spinbox changed in just 2 weeks, the 4th will leave you speachless."`  
+    - `"10 antipatterns everyone knows are actually just lies"`  
+    - `"5 weird ways spinbox changed in just 2 weeks, the 4th will leave you speechless."`  
 2. **Case Studies**  
   Perfect for unit test commit comments (you can even use the GH Issue number as the case study number)  
     - `"Case Study #1543: Does spinbox still allow exceeding maximum through manual input?"`  
@@ -17,14 +17,14 @@ Writing git commit comments is boring. Following this guide will make it easy to
     - `"How to localize input for over 100,000 languages!!!"`  
 4. **Guides**  
   Works for larger additions or changes  
-    - `"The advanced guide to asnyc unit testing with QUnit"`  
+    - `"The advanced guide to async unit testing with QUnit"`  
     - `"The surgical guide to UMD boilerplate abstraction"` 
 5. **Controversial**  
   Perfect for style guide conformance  
     - `"10 reasons why tabs are better than spaces, the fifth will make your head explode"`  
     - `"Yes. I just replaced all of your double with single quotes"`  
 6. **Comparison**  
-  Good for arbitrary code refactoring (wher nothing really changes, the code is just better). This is somewhat similar to "controversial" but should be more than just white-space or structural related stylistic conformance.  
+  Good for arbitrary code refactoring (where nothing really changes, the code is just better). This is somewhat similar to "controversial" but should be more than just white-space or structural related stylistic conformance.  
     - `"for in vs for of, the difference will shock you"`  
     - `"_.each vs $.each, you never knew what you were missing"`  
 7. **Why**  
@@ -36,7 +36,7 @@ Writing git commit comments is boring. Following this guide will make it easy to
     - `"Are you using for..of correctly?"`  
     - `"Are you sure that forEach does what you think it does?"`  
 9. **Click Bait**  
-  Much less informative than any of the previous without a lot more thought, but, utlimately can be the most fun  
+  Much less informative than any of the previous without a lot more thought, but, ultimately can be the most fun  
     - `"One developer changes a single line of code, what happens next will blow your mind..."`  
     - `"The codepacolypse is coming, and you're going down with it without this one thing"`  
     - `"A developer tries to use const, the reason why will make you cry"`  
@@ -63,4 +63,4 @@ Common vernacular:
   - the reason why will make you cry
   - first you'll be [shocked|dismayed|adjective], then you'll be [inspired|enraged|adjective]
 
-Git commit messages break on character 70. Intentionally breaking the sentance up to bury the lead behind that fold can be fun.
+Git commit messages break on character 70. Intentionally breaking the sentance up to bury the lede behind that fold can be fun.
